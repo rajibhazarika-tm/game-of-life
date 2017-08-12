@@ -10,7 +10,7 @@ import net.thucydides.core.pages.Pages;
 import static org.fest.assertions.Assertions.assertThat;
 
 public class PlayerSteps {
-
+    //private
     private Pages pages;
 
     @Step
