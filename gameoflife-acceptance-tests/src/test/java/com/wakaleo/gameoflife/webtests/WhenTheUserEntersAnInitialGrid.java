@@ -20,7 +20,7 @@ public class WhenTheUserEntersAnInitialGrid {
 
     @Managed(uniqueSession = true)
     WebDriver driver;
-
+    //rajib
     @ManagedPages(defaultUrl = "http://localhost:9090")
     public Pages pages;
 
